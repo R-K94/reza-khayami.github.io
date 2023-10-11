@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: :zap: "Hi There, I'm Reza!"
+title: "⚡ Hi There, I'm Reza!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
