@@ -15,4 +15,6 @@ I have experience applying machine learning to genomic data to enable earlier ca
 
 Research
 ======
-My research interests span genomics, bioinformatics, and cancer. My past projects involved identifying methylation biomarkers for early gastrointestinal cancer diagnosis using machine learning. I has also conducted research applying machine learning to detect colorectal cancer early. I have experience with techniques like RNA-seq, exome sequencing, Illumina methylation arrays, and network analysis. My work has contributed to successful student theses and research publications in reputable journals. 
+My research interests span genomics, bioinformatics, and cancer. My past projects involved identifying methylation biomarkers for early gastrointestinal cancer diagnosis using machine learning. I has also conducted research applying machine learning to detect colorectal cancer early.
+
+I have experience with techniques like RNA-seq, exome sequencing, Illumina methylation arrays, and network analysis. My work has contributed to successful student theses and research publications in reputable journals. 
