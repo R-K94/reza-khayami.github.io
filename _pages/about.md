@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![DNA](/images/landing2.png){: .align-right width="300px"}
+![DNA](/images/landing2.jpg){: .align-right width="300px"}
 I am Reza Khayami, a dedicated researcher in the field of Human Genetics. I hold an MSc degree in Human Genetics from Mashhad University of Medical Sciences, where I conducted extensive research on genomics, genome editing, bioinformatics, and cancer.
 
 Throughout my academic journey, I have been passionate about exploring the intricacies of genetics and its applications in understanding and combating diseases, particularly cancer. My expertise lies in various aspects of genomics, including genome editing techniques and bioinformatics analysis.
