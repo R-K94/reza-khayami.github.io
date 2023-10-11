@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 <img src="/images/landing2.jpg" alt="DNA" align="right" width="250px">
-I am Reza Khayami, a dedicated researcher in the field of Human Genetics. I hold an MSc degree in Human Genetics from Mashhad University of Medical Sciences, where I conducted extensive research on genomics, genome editing, bioinformatics, and cancer. I have experience applying machine learning to genomic data to enable earlier cancer diagnosis. I am passionate about advancing cancer research through computational methods. Outside of research, I enjoys creating graphics to communicate complex scientific concepts visually.
+I am Reza Khayami, a dedicated researcher in the field of Human Genetics. I hold an MSc degree in Human Genetics from Mashhad University of Medical Sciences, where I conducted extensive research on genomics, genome editing, bioinformatics, and cancer.
+
+I have experience applying machine learning to genomic data to enable earlier cancer diagnosis. I am passionate about advancing cancer research through computational methods. Outside of research, I enjoys creating graphics to communicate complex scientific concepts visually.
 
 
 Research
