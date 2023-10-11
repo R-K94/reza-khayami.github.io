@@ -83,7 +83,7 @@ author:
   name             : "Reza Khayami"
   avatar           : "profile_pic.png"
   bio              : "Cancer Genomics"
-  location         : "Cancer Research Center, Mashhad University of Medical Sciences"
+  location         : # ""
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Reza+Khayami+AND+mashhad&sort=date"
   googlescholar    : "https://scholar.google.com/citations?user=cpZ1Wr4AAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "R-k94"
+  github           : "reza-khayami"
   google_plus      :
   keybase          :
   instagram        :
