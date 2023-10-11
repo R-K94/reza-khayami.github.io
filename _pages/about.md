@@ -8,14 +8,9 @@ redirect_from:
   - /about.html
 ---
 <img src="/images/landing2.jpg" alt="DNA" align="right" width="250px">
-I am Reza Khayami, a dedicated researcher in the field of Human Genetics. I hold an MSc degree in Human Genetics from Mashhad University of Medical Sciences, where I conducted extensive research on genomics, genome editing, bioinformatics, and cancer.
+I am Reza Khayami, a dedicated researcher in the field of Human Genetics. I hold an MSc degree in Human Genetics from Mashhad University of Medical Sciences, where I conducted extensive research on genomics, genome editing, bioinformatics, and cancer. I have experience applying machine learning to genomic data to enable earlier cancer diagnosis. I am passionate about advancing cancer research through computational methods. Outside of research, I enjoys creating graphics to communicate complex scientific concepts visually.
 
-Throughout my academic journey, I have been passionate about exploring the intricacies of genetics and its applications in understanding and combating diseases, particularly cancer. My expertise lies in various aspects of genomics, including biological techniques and bioinformatics analysis.
 
 Research
 ======
-During my research journey, I have gained valuable experience in the field of Human Genetics. Here are some key highlights of my research experience:
-
-- Conducted machine learning algorithms on methylation data to distinguish malignant tissue from normal tissue in gastrointestinal cancers, improving early diagnosis.
-- Collaborated on a CRISPR-Cas9 project focused on cancer research, working alongside esteemed researchers to advance our understanding of genetic therapies.
-- Contributed to multiple research projects, providing valuable insights through statistical analysis and data-driven discoveries.
+My research interests span genomics, bioinformatics, and cancer. My past projects involved identifying methylation biomarkers for early gastrointestinal cancer diagnosis using machine learning. I has also conducted research applying machine learning to detect colorectal cancer early. I have experience with techniques like RNA-seq, exome sequencing, Illumina methylation arrays, and network analysis. My work has contributed to successful student theses and research publications in reputable journals. 
