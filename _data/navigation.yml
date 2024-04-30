@@ -4,7 +4,7 @@ main:
     url: /files/RK-CV.pdf
 
   - title: "Publications"
-    url: "https://scholar.google.com/citations?user=cpZ1Wr4AAAAJ&hl=en"    
+    url: /publications/
 
   #- title: "Teaching"
   #  url: /teaching/    
